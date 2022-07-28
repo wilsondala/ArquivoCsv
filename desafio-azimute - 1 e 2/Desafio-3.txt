@@ -1,0 +1,30 @@
+Linha - S 
+                    Nome : Glaucia Balieiro
+                    Cargo: Gerente de TI
+                    Cidade: Sao Paulo
+                    Telefone: (+55)11967864916
+                    Endereço: Sao Bernado N? 111
+Linha - S 
+                    Nome : Shiogui Nagasse
+                    Cargo: Gerente de Arquitetura
+                    Cidade: Sao Paulo
+                    Telefone: (+55)11967864917
+                    Endereço: Nova Vida N? 444
+Linha - S 
+                    Nome : Gabriel Gardinalle Barreto
+                    Cargo: Coordenador de TI
+                    Cidade: Sao Paulo
+                    Telefone: (+55)11967864918
+                    Endereço: Quitanda N? 661
+Linha - S
+                    Nome : Wanderson B.
+                    Cargo: DBA
+                    Cidade: Sao Paulo
+                    Telefone: (+55)11967864919
+                    Endereço: Balumuka N? 567
+Linha - S 
+                    Nome : Wilson Dala
+                    Cargo: Front
+                    Cidade: Luanda
+                    Telefone: (+55)11967864919
+                    Endereço: 11 de Novembro N? 446

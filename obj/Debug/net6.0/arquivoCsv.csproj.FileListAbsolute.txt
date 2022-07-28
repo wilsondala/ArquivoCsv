@@ -1,0 +1,15 @@
+C:\arquivoCsv\bin\Debug\net6.0\arquivoCsv.exe
+C:\arquivoCsv\bin\Debug\net6.0\arquivoCsv.deps.json
+C:\arquivoCsv\bin\Debug\net6.0\arquivoCsv.runtimeconfig.json
+C:\arquivoCsv\bin\Debug\net6.0\arquivoCsv.dll
+C:\arquivoCsv\bin\Debug\net6.0\arquivoCsv.pdb
+C:\arquivoCsv\obj\Debug\net6.0\arquivoCsv.csproj.AssemblyReference.cache
+C:\arquivoCsv\obj\Debug\net6.0\arquivoCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\arquivoCsv\obj\Debug\net6.0\arquivoCsv.AssemblyInfoInputs.cache
+C:\arquivoCsv\obj\Debug\net6.0\arquivoCsv.AssemblyInfo.cs
+C:\arquivoCsv\obj\Debug\net6.0\arquivoCsv.csproj.CoreCompileInputs.cache
+C:\arquivoCsv\obj\Debug\net6.0\arquivoCsv.dll
+C:\arquivoCsv\obj\Debug\net6.0\refint\arquivoCsv.dll
+C:\arquivoCsv\obj\Debug\net6.0\arquivoCsv.pdb
+C:\arquivoCsv\obj\Debug\net6.0\arquivoCsv.genruntimeconfig.cache
+C:\arquivoCsv\obj\Debug\net6.0\ref\arquivoCsv.dll
