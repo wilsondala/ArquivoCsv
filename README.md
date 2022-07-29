@@ -1,7 +1,7 @@
 # ArquivoCsv
-Arquivo Csv feito no excel exportado no no console do C#
+Arquivo Csv feito no excel exportado no console do C#
 
-Olá eu sou o wilson este desafio tem  por objetivo de testar as minhas capacidade tecnicas.
+Olá eu sou o wilson este desafio tem  por objetivo  testar as minhas capacidade tecnicas.
 
 foi desafiado a criar um arquivo CSV no Excel, e esportar no console do C# Sharp. 
 
